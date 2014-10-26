@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="Database.xsl"?>
+<?xml-stylesheet type="text/xsl" href="Database2.xsl"?>
 
 <publishing_house>
 
@@ -642,9 +642,9 @@
 <author>
 	<name><author_first_name>Justin Luke</author_first_name>
 	<author_last_name>Zirilli</author_last_name></name>
-		<biography>Justin Luke Zirilli is the co-director and head promoter of BoiParty, New York City's largest and longest-running gay nightlife events company. He and his business partner, Alan Picus, throw the three largest weekly dance parties around New York City, and even larger events across the United States. 
+		<biography>Justin Luke Zirilli is the co-director and head promoter of BoiParty, New York City's largest and longest-running gay nightlife events company. He and his business partner, Alan Picus, throw the three largest weekly dance parties around New York City, and even larger events across the United States.
 
-		In addition to event planning, Justin feeds his addiction to social media as the creator of Gorgeous, Gay and Twenty-Something, a private international Facebook group, as the New York correspondent of the national gay talk show, The Swish Edition, and by moonlighting as a social media and new business consultant. 
+		In addition to event planning, Justin feeds his addiction to social media as the creator of Gorgeous, Gay and Twenty-Something, a private international Facebook group, as the New York correspondent of the national gay talk show, The Swish Edition, and by moonlighting as a social media and new business consultant.
 
 		When he isn't glued to his computer screen, or traversing NYC's gay party scene, he spends his time in Hell's Kitchen, playing PlayStation and watching Doctor Who with his boyfriend, Joe.
 
@@ -658,6 +658,5 @@
 				<book_description>In his wild and addictive follow-up to Gulliver Takes Manhattan, novelist Justin Luke Zirilli revisits a single epic night in the life of Gulliver Leverenz; this time through the eyes of six of Gully’s closest companions. There’s Marty, Gully’s ex-boyfriend, who gets a shot at a breakthrough role that could propel him straight to Broadway; hotheaded Brayden, who copes with a breakup by carving a path of blistering revenge across the city; bickering exes Servando and Rowan, for whom a subway breakdown ignites a powder keg of drama and discovery; Gully’s former best friend Todd, whose job as a gay nightlife promoter is turning out to be anything but glamorous; and go-go boy Chase, finally facing some hard truths about his life—and trying to cope with his harsh reality. Enrapturing, adventurous, and chaotic, Gulliver Takes Five gives readers an exclusive all-access pass to Gay New York for one rough, sexy—and unforgettable—night on the town.</book_description>
 					<year><year_published>Year Published: 2012</year_published></year>
 </author>
-
 
 </publishing_house>
